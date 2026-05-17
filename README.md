@@ -22,7 +22,9 @@
 ###
 
 <div align="left">
- <a>[![Portfolio](https://img.shields.io/badge/My_Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://alejandrommxxvi-dev.github.io/portfolioHUB/) </a>
+ <a href="https://alejandrommxxvi-dev.github.io/portfolioHUB/" target="_blank">
+  <img src="https://img.shields.io/badge/My_Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="portfolio logo" />
+</a>
   <a href="https://www.linkedin.com/in/augusto-alejandro-10066740b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
