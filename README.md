@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/night-drive.gif" width="100%">
+</p>
 <h1 align="center">Welcome. Make yourself at home ☕</h1>
 
 ###
