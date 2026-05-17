@@ -17,6 +17,7 @@ jobs:
         with:
           filename: languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
 
           base: ""
           plugin_languages: yes
