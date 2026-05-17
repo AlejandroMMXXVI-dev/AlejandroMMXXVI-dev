@@ -16,7 +16,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
   
-<p align="left"> - 🎓 I'm 18 years old. My English is intermediate, with good reading comprehension. I’m studying Software Engineering at CEUB and improving my skills in Python, HTML, and CSS through hands-on learning.<br><br> - 🎬 Outside the world of technology, I’m interested in film, storytelling, music, games, and visual aesthetics — especially how good design and atmosphere can create memorable experiences.</p>
+<p align="left"> - 🎓 I'm 18 years old. My English is intermediate, with good reading comprehension. I’m studying Software Engineering at CEUB and improving my skills in Python, HTML, and CSS through hands-on learning.<br><br> - 🎬Outside the world of technology, I enjoy playing the acoustic guitar. I'm interested in film, books, music, video games, and visual aesthetics—especially how atmosphere and design can create memorable experiences..</p>
 </details>
 
 ###
