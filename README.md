@@ -79,4 +79,3 @@
   <img src="https://streak-stats.demolab.com?user=AlejandroMMXXVI-dev&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
     <img src="https://raw.githubusercontent.com/AlejandroMMXXVI-dev/AlejandroMMXXVI-dev/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
-###
