@@ -22,7 +22,7 @@
 ###
 
 <div align="left">
- <a href="https://alejandrommxxvi-dev.github.io/portfolioHUB/" target="_blank">
+ <a href="" target="_blank">
   <img src="https://img.shields.io/badge/My_Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="portfolio logo" />
 </a>
   <a href="https://www.linkedin.com/in/augusto-alejandro-10066740b/" target="_blank">
